@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("HistoryFramework")]
 [assembly: AssemblyDescription("A undo and redo management library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("summatix")]
+[assembly: AssemblyCompany("ShiverCube")]
 [assembly: AssemblyProduct("HistoryFramework")]
-[assembly: AssemblyCopyright("Copyright © summatix 2009")]
+[assembly: AssemblyCopyright("Copyright © ShiverCube 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
